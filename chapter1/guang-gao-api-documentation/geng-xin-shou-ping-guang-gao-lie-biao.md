@@ -1,4 +1,4 @@
-#### 获取首屏广告列表`GET mob/login`
+#### 更新首屏广告列表`POSTurl`
 
 * **Data Params**
 
@@ -8,7 +8,7 @@
 
   ad\_launch
 
-* **Returns:**
+* **Data Example**
 
 ```
 {
@@ -20,9 +20,24 @@
             status:0,
             avlb_from:timestamp,
             avlb_to:timestamp,
-              image:"",
+  			image:"",
           }
         ]
+}
+```
+
+* **Return Params**
+
+        result
+
+        message
+
+* **Returns Example:**
+
+```
+{	
+  	result:0,
+  	message:""
 }
 ```
 
