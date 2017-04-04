@@ -2,7 +2,7 @@
 
 * [`获取首屏广告列表`](/chapter1/guang-gao-api-documentation/huo-qu-shou-ping-guang-gao-lie-biao.md)
 
-* [`更新首屏广告列表`](#update_ad_launch)
+* [`更新首屏广告列表`](/chapter1/guang-gao-api-documentation/geng-xin-shou-ping-guang-gao-lie-biao.md)
 
 * [`获取置顶商家列表`](#get_ad_rr)
 
