@@ -1,15 +1,15 @@
 ## 广告API Documentation
 
-* #### `获取首屏广告列表`
-* #### [`更新首屏广告列表`](/chapter1/guang-gao-api-documentation/geng-xin-shou-ping-guang-gao-lie-biao.md)
-* #### [`获取置顶商家列表`](#get_ad_rr)
-* #### [`更新置顶商家列表`](#update_ad_rr)
-* #### [`获取home广告列表`](#get_ad_home)
-* #### [`更新home广告列表`](#update_ad_home)
+* #### [`获取首屏广告列表`](#get-ad-launch)
+* #### [`更新首屏广告列表`](#update-ad-launch)
+* #### [`获取置顶商家列表`](#get-ad-rr)
+* #### [`更新置顶商家列表`](#update-ad-rr)
+* #### [`获取home广告列表`](#get-ad-home)
+* #### [`更新home广告列表`](#update-ad-home)
 
 #### 
 
-#### 获取首屏广告列表`GET mob/login`
+#### 获取首屏广告列表`GET mob/login` {#get-ad-launch}
 
 * **Data Params**
 
@@ -39,7 +39,7 @@
 
 #### 
 
-#### 更新首屏广告列表`POSTurl`
+#### 更新首屏广告列表`POSTurl` {#update-ad-launch}
 
 * **Data Params**
 
@@ -84,7 +84,7 @@
 
 #### 
 
-#### 获取置顶商家列表`GET url`
+#### 获取置顶商家列表`GET url` {#get-ad-rr}
 
 * **Data Params**
 
@@ -120,9 +120,9 @@
 }
 ```
 
-####   
+#### 
 
-#### 更新置顶商家列表`POST url`
+#### 更新置顶商家列表`POST url` {#update-ad-rr}
 
 * **Data Params**
 
@@ -163,9 +163,9 @@
 }
 ```
 
-####   
+#### 
 
-#### 获取home广告列表`GET url`
+#### 获取home广告列表`GET url` {#get-ad-home}
 
 * **Data Params**
 
@@ -207,9 +207,9 @@
 }
 ```
 
-####   
+#### 
 
-#### 更新home广告列表`POST url`
+#### 更新home广告列表`POST url` {#update-ad-home}
 
 * **Data Params**
 
