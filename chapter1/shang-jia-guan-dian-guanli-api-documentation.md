@@ -6,7 +6,7 @@
 * #### [`需求`](#require-close-time)
 * #### [`rr_close_error`](#error-close-time)
 
-####           
+#### 
 
 #### [更新关店时间API](/chapter1/shang-jia-guan-dian-guanli-api-documentation/geng-xin-guan-dian-shi-jian-api.md)`PUT /api/v1/rr_close` {#update-close-time}
 
@@ -37,7 +37,7 @@
 }
 ```
 
-####          
+#### 
 
 #### [获取关店列表API](/chapter1/shang-jia-guan-dian-guanli-api-documentation/huo-qu-guan-dian-lie-biao-api.md)`GET /api/v1/rr_close` {#get-close-time}
 
@@ -71,7 +71,7 @@
 }
 ```
 
-####               
+#### 
 
 #### [添加关店时间API](/chapter1/shang-jia-guan-dian-guanli-api-documentation/tian-jia-guan-dian-shi-jian-api.md)`POST /api/v1/rr_close` {#add-close-time}
 
@@ -100,9 +100,9 @@
 }
 ```
 
-####           
+#### 
 
-#### [需求![](/assets/需求.jpg)](/chapter1/shang-jia-guan-dian-guanli-api-documentation/xu-qiu.md)           {#require-close-time}
+#### [需求![](/assets/需求.jpg)](/chapter1/shang-jia-guan-dian-guanli-api-documentation/xu-qiu.md) {#require-close-time}
 
 #### [Restaurant Close Error Message](/chapter1/shang-jia-guan-dian-guanli-api-documentation/restaurant-close-error-message.md) {#error-close-time}
 
