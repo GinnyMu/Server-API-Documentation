@@ -1,8 +1,9 @@
-#### Restaurant Close Error Message
+# Restaurant Close Error Message {#restaurant-close-error-message}
 
-`GET, PUT, POST`
-
-`http://test.norgta.com/public/api/v1/rr_close`
+| Tables | 说明 |
+| :--- | :--- |
+| URL | [http://test.norgta.com/public/api/v1/rr\_close](http://test.norgta.com/public/api/v1/rr_close) |
+| 接口 | GET, PUT, POST |
 
 * **报错信息:**
 
