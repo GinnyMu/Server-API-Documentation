@@ -22,4 +22,6 @@
     * [Restaurant Close Error Message](chapter1/shang-jia-guan-dian-guanli-api-documentation/restaurant-close-error-message.md)
   * [客服 API Documntation](chapter1/ke-fu-api-documntation.md)
     * [删除客服班表API](chapter1/ke-fu-api-documntation/shan-chu-ke-fu-ban-biao-api.md)
+    * [更新客服班表API](chapter1/ke-fu-api-documntation/geng-xin-ke-fu-ban-biao-api.md)
+    * [添加客服班表API](chapter1/ke-fu-api-documntation/tian-jia-ke-fu-ban-biao-api.md)
 
