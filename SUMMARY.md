@@ -20,4 +20,6 @@
     * [添加关店时间API](chapter1/shang-jia-guan-dian-guanli-api-documentation/tian-jia-guan-dian-shi-jian-api.md)
     * [需求](chapter1/shang-jia-guan-dian-guanli-api-documentation/xu-qiu.md)
     * [Restaurant Close Error Message](chapter1/shang-jia-guan-dian-guanli-api-documentation/restaurant-close-error-message.md)
+  * [客服 API Documntation](chapter1/ke-fu-api-documntation.md)
+    * [删除客服班表API](chapter1/ke-fu-api-documntation/shan-chu-ke-fu-ban-biao-api.md)
 
