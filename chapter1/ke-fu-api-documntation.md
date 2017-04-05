@@ -8,7 +8,7 @@
 
 #### 
 
-#### 删除客服班表API`PATCH /api/v1/cs_work` {#delete-service-table}
+#### [删除客服班表API](/chapter1/ke-fu-api-documntation/shan-chu-ke-fu-ban-biao-api.md)`PATCH /api/v1/cs_work` {#delete-service-table}
 
 * **Data Params**
 
@@ -33,7 +33,7 @@
 
 #### 
 
-#### 更新客服班表API`PUT /api/v1/cs_work` {#update-service-table}
+#### [更新客服班表API](/chapter1/ke-fu-api-documntation/geng-xin-ke-fu-ban-biao-api.md)`PUT /api/v1/cs_work` {#update-service-table}
 
 * **Data Params**
 
@@ -66,7 +66,7 @@
 
 #### 
 
-#### 添加客服班表API`POST /api/v1/cs_work` {#add-service-table}
+#### [添加客服班表API](/chapter1/ke-fu-api-documntation/tian-jia-ke-fu-ban-biao-api.md)`POST /api/v1/cs_work` {#add-service-table}
 
 * **Data Params**
 
@@ -97,7 +97,7 @@
 
 #### 
 
-#### 获取客服名单API`GET /api/v1/cs_role` {#get-service-list}
+#### [获取客服名单API](/chapter1/ke-fu-api-documntation/huo-qu-ke-fu-ming-dan.md)`GET /api/v1/cs_role` {#get-service-list}
 
 * **Data Params**
 
@@ -126,7 +126,7 @@ data:[
 
 #### 
 
-#### 获取客服班表API V2`GET /api/v1/cs_work` {#get-service-table-v2}
+#### [获取客服班表API V2](/chapter1/ke-fu-api-documntation/huo-qu-ke-fu-ban-biao-api-v2.md)`GET /api/v1/cs_work` {#get-service-table-v2}
 
 * **Data Params**
 

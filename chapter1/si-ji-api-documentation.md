@@ -7,7 +7,7 @@
 
 #### 
 
-#### [删除司机班表API`PATCH /api/v1/dr_work`](/chapter1/si-ji-api-documentation/shan-chu-si-ji-ban-biao-api.md) {#delete-driver-table}
+#### [删除司机班表API](/chapter1/si-ji-api-documentation/shan-chu-si-ji-ban-biao-api.md)`PATCH /api/v1/dr_work` {#delete-driver-table}
 
 * **Data Params**
 
@@ -32,7 +32,7 @@
 
 #### 
 
-#### [更新司机班表API`PUT /api/v1/dr_work`](/chapter1/si-ji-api-documentation/geng-xin-si-ji-ban-biao-ap.md) {#update-driver-table}
+#### [更新司机班表API](/chapter1/si-ji-api-documentation/geng-xin-si-ji-ban-biao-ap.md)`PUT /api/v1/dr_work` {#update-driver-table}
 
 * **Data Params**
 
@@ -67,7 +67,7 @@
 
 #### 
 
-#### [添加司机班表API`POST /api/v1/dr_work`](/chapter1/si-ji-api-documentation/tian-jia-si-ji-ban-biao-api.md) {#add-driver-table}
+#### [添加司机班表API](/chapter1/si-ji-api-documentation/tian-jia-si-ji-ban-biao-api.md)`POST /api/v1/dr_work` {#add-driver-table}
 
 * **Data Params**
 
@@ -100,7 +100,7 @@
 
 #### 
 
-#### [获取司机班表API`GET /api/v1/dr_work`](/chapter1/si-ji-api-documentation/huo-qu-siji-ban-biao-api.md) {#get-driver-table}
+#### [获取司机班表API](/chapter1/si-ji-api-documentation/huo-qu-siji-ban-biao-api.md)`GET /api/v1/dr_work` {#get-driver-table}
 
 * **Data Params**
 
