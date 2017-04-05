@@ -28,11 +28,14 @@
 * #### [`更新客服班表`](#update-service-table)
 * #### [`添加客服班表`](#add-service-table)
 * #### [`获取客服名单`](#get-service-list)
-* #### [`获取客服班表 V`](#get-service-table-v2)
+* #### [`获取客服班表 V2`](#get-service-table-v2)
 
-##  
+<br/>
 
 ## 广告API Documentation {#ad-api}
+<br/>
+
+
 
 #### [获取首屏广告列表](/chapter1/guang-gao-api-documentation/huo-qu-shou-ping-guang-gao-lie-biao.md)`GET mob/login` {#get-ad-launch}
 
@@ -62,7 +65,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [更新首屏广告列表](/chapter1/guang-gao-api-documentation/geng-xin-shou-ping-guang-gao-lie-biao.md)`POST url` {#update-ad-launch}
 
@@ -107,7 +112,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [获取置顶商家列表](/chapter1/guang-gao-api-documentation/huo-qu-zhi-ding-shang-jia-lie-biao.md)`GET url` {#get-ad-rr}
 
@@ -145,7 +152,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [更新置顶商家列表](/chapter1/guang-gao-api-documentation/geng-xin-zhi-ding-shang-jia-lie-biao.md)`POST url` {#update-ad-rr}
 
@@ -188,7 +197,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [获取home广告列表](/chapter1/guang-gao-api-documentation/huo-qu-home-guang-gao-lie-biao.md)`GET url` {#get-ad-home}
 
@@ -232,7 +243,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [更新home广告列表](/chapter1/guang-gao-api-documentation/geng-xin-home-guang-gao-lie-biao.md)`POST url` {#update-ad-home}
 
@@ -285,10 +298,14 @@
       message:""
 }
 ```
+<br/>
+
 
 ## 司机 API Documentation {#driver-api}
 
-#### 
+<br/>
+
+
 
 #### [删除司机班表API](/chapter1/si-ji-api-documentation/shan-chu-si-ji-ban-biao-api.md)`PATCH /api/v1/dr_work` {#delete-driver-table}
 
@@ -313,7 +330,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [更新司机班表API](/chapter1/si-ji-api-documentation/geng-xin-si-ji-ban-biao-ap.md)`PUT /api/v1/dr_work` {#update-driver-table}
 
@@ -348,7 +367,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [添加司机班表API](/chapter1/si-ji-api-documentation/tian-jia-si-ji-ban-biao-api.md)`POST /api/v1/dr_work` {#add-driver-table}
 
@@ -381,7 +402,9 @@
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [获取司机班表API](/chapter1/si-ji-api-documentation/huo-qu-siji-ban-biao-api.md)`GET /api/v1/dr_work` {#get-driver-table}
 
@@ -416,10 +439,15 @@ ea_data:[
  ]
 }
 ```
+<br/>
+
+
 
 ## 商家关店管理 API Documentation {#res-api}
 
-#### 
+<br/>
+
+
 
 #### [更新关店时间API](/chapter1/shang-jia-guan-dian-guanli-api-documentation/geng-xin-guan-dian-shi-jian-api.md)`PUT /api/v1/rr_close` {#update-close-time}
 
@@ -450,7 +478,9 @@ ea_data:[
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [获取关店列表API](/chapter1/shang-jia-guan-dian-guanli-api-documentation/huo-qu-guan-dian-lie-biao-api.md)`GET /api/v1/rr_close` {#get-close-time}
 
@@ -483,8 +513,9 @@ ea_data:[
     ]
 }
 ```
+<br/>
 
-#### 
+
 
 #### [添加关店时间API](/chapter1/shang-jia-guan-dian-guanli-api-documentation/tian-jia-guan-dian-shi-jian-api.md)`POST /api/v1/rr_close` {#add-close-time}
 
@@ -513,7 +544,9 @@ ea_data:[
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [需求![](/assets/需求.jpg)](/chapter1/shang-jia-guan-dian-guanli-api-documentation/xu-qiu.md) {#require-close-time}
 
@@ -532,10 +565,14 @@ ea_data:[
 | 70003 | Number of Invalid amount of arguments | 给予参数数量不符合 |
 | 70004 | Authorization Failed: Permission denied | 此用户不是管理员 |
 | 70005 | Authorization Failed: unrecognized user | 没有此用户 |
+<br/>
+
 
 ## 客服 API Documentation {#service-api}
 
-#### 
+<br/>
+
+
 
 #### [删除客服班表API](/chapter1/ke-fu-api-documntation/shan-chu-ke-fu-ban-biao-api.md)`PATCH /api/v1/cs_work` {#delete-service-table}
 
@@ -560,7 +597,9 @@ ea_data:[
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [更新客服班表API](/chapter1/ke-fu-api-documntation/geng-xin-ke-fu-ban-biao-api.md)`PUT /api/v1/cs_work` {#update-service-table}
 
@@ -593,7 +632,9 @@ ea_data:[
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [添加客服班表API](/chapter1/ke-fu-api-documntation/tian-jia-ke-fu-ban-biao-api.md)`POST /api/v1/cs_work` {#add-service-table}
 
@@ -624,7 +665,9 @@ ea_data:[
 }
 ```
 
-#### 
+<br/>
+
+
 
 #### [获取客服名单API](/chapter1/ke-fu-api-documntation/huo-qu-ke-fu-ming-dan.md)`GET /api/v1/cs_role` {#get-service-list}
 
@@ -653,7 +696,9 @@ data:[
 ]
 ```
 
-#### 
+<br/>
+
+
 
 #### [获取客服班表API V2](/chapter1/ke-fu-api-documntation/huo-qu-ke-fu-ban-biao-api-v2.md)`GET /api/v1/cs_work` {#get-service-table-v2}
 
