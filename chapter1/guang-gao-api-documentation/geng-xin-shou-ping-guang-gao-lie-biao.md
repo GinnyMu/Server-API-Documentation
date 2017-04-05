@@ -43,9 +43,25 @@
             status:0,
             avlb_from:timestamp,
             avlb_to:timestamp,
-  			image:"",
+              image:"",
           }
         ]
+}
+```
+
+返回字段说明:
+
+|  | 类型 | 说明 |
+| :--- | :--- | :--- |
+| number | result | 0成功 1 失败 |
+| string | message | 报错信息 |
+
+返回参数\(默认JSON\):
+
+```
+{	
+  	result:0,
+  	message:""
 }
 ```
 
