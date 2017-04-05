@@ -16,4 +16,5 @@
     * [获取司机班表API](chapter1/si-ji-api-documentation/huo-qu-siji-ban-biao-api.md)
   * [商家关店管理 API Documentation](chapter1/shang-jia-guan-dian-guanli-api-documentation.md)
     * [更新关店时间API](chapter1/shang-jia-guan-dian-guanli-api-documentation/geng-xin-guan-dian-shi-jian-api.md)
+    * [获取关店列表API](chapter1/shang-jia-guan-dian-guanli-api-documentation/huo-qu-guan-dian-lie-biao-api.md)
 
