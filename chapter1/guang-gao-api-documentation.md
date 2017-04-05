@@ -9,7 +9,7 @@
 
 #### 
 
-#### [获取首屏广告列表`GET mob/login`](/chapter1/guang-gao-api-documentation/huo-qu-shou-ping-guang-gao-lie-biao.md) {#get-ad-launch}
+#### [获取首屏广告列表](/chapter1/guang-gao-api-documentation/huo-qu-shou-ping-guang-gao-lie-biao.md)`GET mob/login` {#get-ad-launch}
 
 * **Data Params**
 
@@ -39,7 +39,7 @@
 
 #### 
 
-#### 更新首屏广告列表`POSTurl` {#update-ad-launch}
+#### [更新首屏广告列表](/chapter1/guang-gao-api-documentation/geng-xin-shou-ping-guang-gao-lie-biao.md)`POST url` {#update-ad-launch}
 
 * **Data Params**
 
@@ -84,7 +84,7 @@
 
 #### 
 
-#### [获取置顶商家列表`GET url`](/chapter1/guang-gao-api-documentation/huo-qu-zhi-ding-shang-jia-lie-biao.md) {#get-ad-rr}
+#### [获取置顶商家列表](/chapter1/guang-gao-api-documentation/huo-qu-zhi-ding-shang-jia-lie-biao.md)`GET url` {#get-ad-rr}
 
 * **Data Params**
 
@@ -122,7 +122,7 @@
 
 #### 
 
-#### [更新置顶商家列表`POST url`](/chapter1/guang-gao-api-documentation/geng-xin-zhi-ding-shang-jia-lie-biao.md) {#update-ad-rr}
+#### [更新置顶商家列表](/chapter1/guang-gao-api-documentation/geng-xin-zhi-ding-shang-jia-lie-biao.md)`POST url` {#update-ad-rr}
 
 * **Data Params**
 
@@ -165,7 +165,7 @@
 
 #### 
 
-#### [获取home广告列表`GET url`](/chapter1/guang-gao-api-documentation/huo-qu-home-guang-gao-lie-biao.md) {#get-ad-home}
+#### [获取home广告列表](/chapter1/guang-gao-api-documentation/huo-qu-home-guang-gao-lie-biao.md)`GET url` {#get-ad-home}
 
 * **Data Params**
 
@@ -209,7 +209,7 @@
 
 #### 
 
-#### [更新home广告列表`POST url`](/chapter1/guang-gao-api-documentation/geng-xin-home-guang-gao-lie-biao.md) {#update-ad-home}
+#### [更新home广告列表](/chapter1/guang-gao-api-documentation/geng-xin-home-guang-gao-lie-biao.md)`POST url` {#update-ad-home}
 
 * **Data Params**
 
