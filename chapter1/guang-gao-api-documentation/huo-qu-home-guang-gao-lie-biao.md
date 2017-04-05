@@ -1,18 +1,38 @@
-#### 获取home广告列表`GET url`
+#### 获取home广告列表
 
-* **Data Params**
+| Tables | 说明 |
+| :--- | :--- |
+| URL |  |
+| HTTP请求方式 | GET |
+| 是否需要登录 | 需要 |
+| 授权访问限制 | role 3 |
+| 授权范围\(\) | 暂无 |
+| 支持格式 | JSON |
 
-  Authortoken
+表头参数:
 
-* **Return Params**
+| Tables | 类型及其范围 | 说明 |
+| :--- | :--- | :--- |
+| Authortoken | string | token验证信息 |
 
-  result
+返回字段说明:
 
-  ad\_home1
+|  | 类型 | 说明 |
+| :--- | :--- | :--- |
+| result | number | 0为成功 1为失败 |
+| ad\_home1 | array | \[Object\] 顶部banner |
+| ad\_home2 | array | \[Object\] 下半部广告 |
 
-  ad\_home2
+| \[ad\_home1 ad\_home2 object\] | 类型及其范围 | 说明 |
+| :--- | :--- | :--- |
+| id | number | 广告唯一id |
+| navitype | number | 1只显示图片不能点击 2跳转链接 3跳转商家 |
+| nav\_url | string | 默认为空string，navitype2时有值 |
+| image | string | 显示的图片url地址 |
+| nav\_rid | number | 默认为空string，navitype3时有值 |
+| sequence | number | 排序 |
 
-* **Return Example**
+返回结果\(默认JSON\):
 
 ```
 {
@@ -39,6 +59,8 @@
         ]
 }
 ```
+
+
 
 
 

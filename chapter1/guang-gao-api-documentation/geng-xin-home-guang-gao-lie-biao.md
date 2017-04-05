@@ -1,14 +1,37 @@
-#### 更新home广告列表`POST url`
+#### 更新home广告列表
 
-* **Data Params**
+| Tables | 说明 |
+| :--- | :--- |
+| URL |  |
+| HTTP请求方式 | POST |
+| 是否需要登录 | 需要 |
+| 授权访问限制 | role 3 |
+| 授权范围\(\) | 暂无 |
+| 支持格式 | JSON |
 
-  Authortoken
+表头参数:
 
-  ad\_home1
+| Tables | 类型及其范围 | 说明 |
+| :--- | :--- | :--- |
+| Authortoken | string | token验证信息 |
 
-  ad\_home2
+请求字段说明:
 
-* **Data Example**
+|  | 类型 | 说明 |
+| :--- | :--- | :--- |
+| ad\_home1 | array | \[Object\] 顶部banner |
+| ad\_home2 | array | \[Object\] 下半部广告 |
+
+| \[ad\_home1 ad\_home2 object\] | 类型及其范围 | 说明 |
+| :--- | :--- | :--- |
+| id | number | 广告唯一id |
+| navitype | number | 1只显示图片不能点击 2跳转链接 3跳转商家 |
+| nav\_url | string | 默认为空string，navitype2时有值 |
+| image | string | 显示的图片url地址 |
+| nav\_rid | number | 默认为空string，navitype3时有值 |
+| sequence | number | 排序 |
+
+返回结果\(默认JSON\):
 
 ```
 {
@@ -16,10 +39,10 @@
       {
         id:1,
         navitype:2,
-          nav_url:"",
-          image:"",
-          nav_rid:5,
-          sequence:2
+  		nav_url:"",
+  		image:"",
+  		nav_rid:5,
+  		sequence:2
       }
     ],
     ad_home2[
@@ -35,20 +58,19 @@
 }
 ```
 
-* **Return Params**
+返回字段说明:
 
-  ```
-    result
+|  | 类型 | 说明 |
+| :--- | :--- | :--- |
+| number | result | 0成功 1 失败 |
+| string | message | 报错信息 |
 
-    message
-  ```
-
-* **Return Example**
+返回参数\(默认JSON\):
 
 ```
-{    
-      result:0,
-      message:""
+{	
+  	result:0,
+  	message:""
 }
 ```
 
