@@ -13,7 +13,7 @@
 
 | Tables | 类型及其范围 | 说明 | 默认值 |
 | :--- | :--- | :--- | :--- |
-|  | Authortoken | string | token验证信息 |
+| Authortoken | string | token验证信息 |  |
 
 返回字段说明:\
 
