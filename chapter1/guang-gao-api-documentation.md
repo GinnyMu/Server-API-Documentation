@@ -120,6 +120,8 @@
 }
 ```
 
+####   
+
 #### 更新置顶商家列表`POST url`
 
 * **Data Params**
@@ -160,6 +162,8 @@
       message:""
 }
 ```
+
+####   
 
 #### 获取home广告列表`GET url`
 
@@ -203,7 +207,7 @@
 }
 ```
 
-  
+####   
 
 #### 更新home广告列表`POST url`
 
@@ -244,9 +248,9 @@
 
 * **Return Params**
 
-    result
+  result
 
-    message
+  message
 
 * **Return Example**
 
