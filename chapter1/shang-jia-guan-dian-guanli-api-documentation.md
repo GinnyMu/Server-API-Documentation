@@ -6,6 +6,8 @@
 * #### [`需求`](#require_close_time)
 * #### [`rr_close_error`](#error_close_time)
 
+####   
+
 #### 更新关店时间API`PUT /api/v1/rr_close`
 
 * **Data Params**
@@ -34,6 +36,8 @@
     ev_message: string
 }
 ```
+
+####   
 
 #### 获取关店列表API`GET /api/v1/rr_close`
 
@@ -67,6 +71,8 @@
 }
 ```
 
+####   
+
 #### 添加关店时间API`POST /api/v1/rr_close`
 
 * **Data Params**
@@ -94,9 +100,9 @@
 }
 ```
 
-#### 需求![](/assets/需求.jpg)  
+####   
 
-  
+#### 需求![](/assets/需求.jpg)
 
 #### Restaurant Close Error Message
 
