@@ -7,7 +7,7 @@
 | 是否需要登录 | 否 |  |
 | 授权访问限制 | 暂无 |  |
 | 授权范围\(\) | 暂无 |  |
-|  | 支持格式 | JSON |
+| 支持格式 | JSON |  |
 
 表头参数:
 
@@ -29,7 +29,7 @@
 | close\_id | string | 关店餐馆id |  |
 | rr\_name | string | 餐馆名字 |  |
 | start\_time | string | 开始关店时间 |  |
-|  | end\_time | string | 结束关店时间 |
+| end\_time | string | 结束关店时间 |  |
 
 返回结果\(默认JSON\):
 
