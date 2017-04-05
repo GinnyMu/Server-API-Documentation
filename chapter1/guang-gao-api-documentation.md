@@ -7,7 +7,7 @@
 * #### [`获取home广告列表`](#get-ad-home)
 * #### [`更新home广告列表`](#update-ad-home)
 
-#### 
+####                 
 
 #### [获取首屏广告列表](/chapter1/guang-gao-api-documentation/huo-qu-shou-ping-guang-gao-lie-biao.md)`GET mob/login` {#get-ad-launch}
 
@@ -37,7 +37,7 @@
 }
 ```
 
-#### 
+####        
 
 #### [更新首屏广告列表](/chapter1/guang-gao-api-documentation/geng-xin-shou-ping-guang-gao-lie-biao.md)`POST url` {#update-ad-launch}
 
@@ -82,7 +82,7 @@
 }
 ```
 
-#### 
+####         
 
 #### [获取置顶商家列表](/chapter1/guang-gao-api-documentation/huo-qu-zhi-ding-shang-jia-lie-biao.md)`GET url` {#get-ad-rr}
 
@@ -120,7 +120,7 @@
 }
 ```
 
-#### 
+####         
 
 #### [更新置顶商家列表](/chapter1/guang-gao-api-documentation/geng-xin-zhi-ding-shang-jia-lie-biao.md)`POST url` {#update-ad-rr}
 
@@ -163,7 +163,7 @@
 }
 ```
 
-#### 
+####          
 
 #### [获取home广告列表](/chapter1/guang-gao-api-documentation/huo-qu-home-guang-gao-lie-biao.md)`GET url` {#get-ad-home}
 
@@ -207,7 +207,7 @@
 }
 ```
 
-#### 
+####         
 
 #### [更新home广告列表](/chapter1/guang-gao-api-documentation/geng-xin-home-guang-gao-lie-biao.md)`POST url` {#update-ad-home}
 
