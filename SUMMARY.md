@@ -18,4 +18,5 @@
     * [更新关店时间API](chapter1/shang-jia-guan-dian-guanli-api-documentation/geng-xin-guan-dian-shi-jian-api.md)
     * [获取关店列表API](chapter1/shang-jia-guan-dian-guanli-api-documentation/huo-qu-guan-dian-lie-biao-api.md)
     * [添加关店时间API](chapter1/shang-jia-guan-dian-guanli-api-documentation/tian-jia-guan-dian-shi-jian-api.md)
+    * [需求](chapter1/shang-jia-guan-dian-guanli-api-documentation/xu-qiu.md)
 

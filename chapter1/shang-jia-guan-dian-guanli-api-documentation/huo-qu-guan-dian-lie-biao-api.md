@@ -1,4 +1,4 @@
-#### 获取关店列表API`GET/api/v1/rr_close`
+#### 获取关店列表API`GET /api/v1/rr_close`
 
 * **Data Params**
 
