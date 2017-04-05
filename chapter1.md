@@ -28,9 +28,9 @@
 * #### [`更新客服班表`](#update-service-table)
 * #### [`添加客服班表`](#add-service-table)
 * #### [`获取客服名单`](#get-service-list)
-* #### [`获取客服班表 V2`](#get-service-table-v2)
+* #### [`获取客服班表 V`](#get-service-table-v2)
 
-`&nbsp;   `
+##  
 
 ## 广告API Documentation {#ad-api}
 
