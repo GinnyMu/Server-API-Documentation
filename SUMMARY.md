@@ -8,4 +8,5 @@
     * [获取置顶商家列表](chapter1/guang-gao-api-documentation/huo-qu-zhi-ding-shang-jia-lie-biao.md)
     * [更新置顶商家列表](chapter1/guang-gao-api-documentation/geng-xin-zhi-ding-shang-jia-lie-biao.md)
     * [获取home广告列表](chapter1/guang-gao-api-documentation/huo-qu-home-guang-gao-lie-biao.md)
+    * [更新home广告列表](chapter1/guang-gao-api-documentation/geng-xin-home-guang-gao-lie-biao.md)
 
