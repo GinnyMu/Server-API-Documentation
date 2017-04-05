@@ -1,4 +1,4 @@
-#### 获取客服名单API`GET/api/v1/cs_role`
+#### 获取客服名单API`GET /api/v1/cs_role`
 
 * **Data Params**
 

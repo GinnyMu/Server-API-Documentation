@@ -16,10 +16,10 @@
       {
         id:1,
         navitype:2,
-  		nav_url:"",
-  		image:"",
-  		nav_rid:5,
-  		sequence:2
+          nav_url:"",
+          image:"",
+          nav_rid:5,
+          sequence:2
       }
     ],
     ad_home2[
@@ -37,16 +37,18 @@
 
 * **Return Params**
 
-        result
+  ```
+    result
 
-        message
+    message
+  ```
 
 * **Return Example**
 
 ```
-{	
-  	result:0,
-  	message:""
+{    
+      result:0,
+      message:""
 }
 ```
 

@@ -1,4 +1,4 @@
-#### 获取客服班表API V2`GET/api/v1/cs_work`
+#### 获取客服班表API V2`GET /api/v1/cs_work`
 
 * **Data Params**
 
