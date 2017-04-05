@@ -1,14 +1,14 @@
 ## 商家关店管理 API Documentation
 
-* #### [`更新关店时间API`](#update_close_time)
-* #### [`获取关店列表API`](#get_close_time)
-* #### [`添加关店时间API`](#add_close_time)
-* #### [`需求`](#require_close_time)
-* #### [`rr_close_error`](#error_close_time)
+* #### [`更新关店时间API`](#update-close-time)
+* #### [`获取关店列表API`](#get-close-time)
+* #### [`添加关店时间API`](#add-close-time)
+* #### [`需求`](#require-close-time)
+* #### [`rr_close_error`](#error-close-time)
 
-####   
+#### 
 
-#### 更新关店时间API`PUT /api/v1/rr_close`
+#### 更新关店时间API`PUT /api/v1/rr_close` {#update-close-time}
 
 * **Data Params**
 
@@ -37,9 +37,9 @@
 }
 ```
 
-####   
+#### 
 
-#### 获取关店列表API`GET /api/v1/rr_close`
+#### 获取关店列表API`GET /api/v1/rr_close` {#get-close-time}
 
 * **Data Params**
 
@@ -71,9 +71,9 @@
 }
 ```
 
-####   
+#### 
 
-#### 添加关店时间API`POST /api/v1/rr_close`
+#### 添加关店时间API`POST /api/v1/rr_close` {#add-close-time}
 
 * **Data Params**
 
@@ -100,11 +100,11 @@
 }
 ```
 
-####   
+#### 
 
-#### 需求![](/assets/需求.jpg)
+#### 需求![](/assets/需求.jpg) {#require-close-time}
 
-#### Restaurant Close Error Message
+#### Restaurant Close Error Message {#error-close-time}
 
 `GET, PUT, POST`
 
