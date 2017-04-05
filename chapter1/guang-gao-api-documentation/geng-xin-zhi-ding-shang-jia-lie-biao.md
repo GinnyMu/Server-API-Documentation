@@ -9,16 +9,16 @@
 * **Data Example**
 
 ```
-{	
-  	adList:[
+{    
+      adList:[
           {
             id:32,
             rid:56,
             zone:1,
-			rank:4,
+            rank:4,
             start_date:timestamp,
             end_date:timestamp,
-  			status:1
+              status:1
           }
         ]
 }
@@ -26,16 +26,18 @@
 
 * **Return Params**
 
-        result
+  ```
+    result
 
-        message
+    message
+  ```
 
 * **Return Example**
 
 ```
-{	
-  	result:0,
-  	message:""
+{    
+      result:0,
+      message:""
 }
 ```
 
