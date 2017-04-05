@@ -8,7 +8,7 @@
 
 #### 
 
-#### 更新关店时间API`PUT /api/v1/rr_close` {#update-close-time}
+#### [更新关店时间API`PUT /api/v1/rr_close`](/chapter1/shang-jia-guan-dian-guanli-api-documentation/geng-xin-guan-dian-shi-jian-api.md) {#update-close-time}
 
 * **Data Params**
 
@@ -39,7 +39,7 @@
 
 #### 
 
-#### 获取关店列表API`GET /api/v1/rr_close` {#get-close-time}
+#### [获取关店列表API`GET /api/v1/rr_close`](/chapter1/shang-jia-guan-dian-guanli-api-documentation/huo-qu-guan-dian-lie-biao-api.md) {#get-close-time}
 
 * **Data Params**
 
@@ -73,7 +73,7 @@
 
 #### 
 
-#### 添加关店时间API`POST /api/v1/rr_close` {#add-close-time}
+#### [添加关店时间API`POST /api/v1/rr_close`](/chapter1/shang-jia-guan-dian-guanli-api-documentation/tian-jia-guan-dian-shi-jian-api.md) {#add-close-time}
 
 * **Data Params**
 
@@ -102,9 +102,9 @@
 
 #### 
 
-#### 需求![](/assets/需求.jpg) {#require-close-time}
+#### [需求![](/assets/需求.jpg)](/chapter1/shang-jia-guan-dian-guanli-api-documentation/xu-qiu.md) {#require-close-time}
 
-#### Restaurant Close Error Message {#error-close-time}
+#### [Restaurant Close Error Message](/chapter1/shang-jia-guan-dian-guanli-api-documentation/restaurant-close-error-message.md) {#error-close-time}
 
 `GET, PUT, POST`
 
